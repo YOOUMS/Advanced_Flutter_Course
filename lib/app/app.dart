@@ -1,9 +1,10 @@
-import 'package:advanced_flutter_course/presentation/theme_manager.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
+
+import '../presentation/resources/theme_manager.dart';
 
 class MyApp extends StatefulWidget {
   MyApp._internal();
